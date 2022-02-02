@@ -2,7 +2,7 @@
 id: mBpbaHWZfxuuQDENAHsjE
 title: Chem 20 Review
 desc: ''
-updated: 1643734159002
+updated: 1643816671895
 created: 1643645295093
 ---
 
@@ -133,6 +133,9 @@ Combustion: C<sub>( )</sub>H<sub>( )</sub> + O<sub>2</sub> → CO<sub>2</sub> + 
 
 6. Iron reacts with oxygen.
 
-    Fe + O<sub>2</sub> → Fe<sub>2</sub>O<sub>3</sub>
+    4Fe(s) + 3O<sub>2</sub>(g) → 2Fe<sub>2</sub>O<sub>3</sub>(s) (Formation)
 
 7. Calcium chloride in solution is added to aqueous aluminum sulfate.
+
+    3CaCl<sub>2</sub>(aq) + Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(aq) → 3CaSO<sub>4</sub>(aq) + 2AlCl<sub>3</sub>(aq) (Double Replacement)
+
