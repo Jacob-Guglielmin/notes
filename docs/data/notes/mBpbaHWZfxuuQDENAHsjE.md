@@ -132,3 +132,5 @@ Combustion: C<sub>( )</sub>H<sub>( )</sub> + O<sub>2</sub> → CO<sub>2</sub> + 
 
     3CaCl<sub>2</sub>(aq) + Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(aq) → 3CaSO<sub>4</sub>(aq) + 2AlCl<sub>3</sub>(aq) (Double Replacement)
 
+## Net Ionic Equations
+
