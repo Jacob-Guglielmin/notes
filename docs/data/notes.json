@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1643905943389,
-      "created": 1643905943389,
+      "updated": 1643907101099,
+      "created": 1643907101099,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -194,7 +194,7 @@
       "id": "mBpbaHWZfxuuQDENAHsjE",
       "title": "Chem 20 Review",
       "desc": "",
-      "updated": 1643905867189,
+      "updated": 1643907016907,
       "created": 1643645295093,
       "custom": {},
       "fname": "chemistry.chem-20-review",
@@ -202,7 +202,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "1abaee8c354494d372a61a75deda8317",
+      "contentHash": "99b45d4dce2547ec6e803268f97bbd5c",
       "links": [],
       "anchors": {
         "compound-naming-practice": {
@@ -236,6 +236,20 @@
           "line": 141,
           "column": 0,
           "depth": 2
+        },
+        "ph-and-poh": {
+          "type": "header",
+          "text": "pH and pOH",
+          "value": "ph-and-poh",
+          "line": 152,
+          "column": 0,
+          "depth": 2
+        },
+        "^-": {
+          "type": "block",
+          "value": "-",
+          "line": 159,
+          "column": 10
         }
       },
       "children": [],

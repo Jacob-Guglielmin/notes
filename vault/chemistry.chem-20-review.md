@@ -2,7 +2,7 @@
 id: mBpbaHWZfxuuQDENAHsjE
 title: Chem 20 Review
 desc: ''
-updated: 1643905867089
+updated: 1643907016798
 created: 1643645295093
 ---
 
@@ -141,3 +141,20 @@ Combustion: C<sub>( )</sub>H<sub>( )</sub> + O<sub>2</sub> → CO<sub>2</sub> + 
 
 ## Net Ionic Equations
 
+* Non-ionic
+    * Regular balanced equation
+* Total ionic
+    * Everything aqueous (except weak acids) separates into ions (dissociation/ionization)
+    * Everything else (gases, liquids, solids) stay as-is
+* Net ionic
+    * Cancel out both sides
+    * **Only cancel if the charge is the same!** For example, Na<sup>+</sup><sub>(aq)</sub> does **not** cancel with Na<sub>(s)</sub>
+
+## pH and pOH
+
+* pH: power of H<sup>+</sup>: $-\log{[H^+]}$
+* pOH: power of OH<sup>-</sup>: $-\log{[OH^-]}$
+* To convert:
+    * $pH + pOH = 14$
+    * $[H_3O^+]\>or\>[H^+] = 10^{-pH}$
+    * $[OH^-] = 10^{-pOH}$
