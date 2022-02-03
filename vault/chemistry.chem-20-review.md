@@ -2,7 +2,7 @@
 id: mBpbaHWZfxuuQDENAHsjE
 title: Chem 20 Review
 desc: ''
-updated: 1643816671895
+updated: 1643905867089
 created: 1643645295093
 ---
 
@@ -138,4 +138,6 @@ Combustion: C<sub>( )</sub>H<sub>( )</sub> + O<sub>2</sub> → CO<sub>2</sub> + 
 7. Calcium chloride in solution is added to aqueous aluminum sulfate.
 
     3CaCl<sub>2</sub>(aq) + Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(aq) → 3CaSO<sub>4</sub>(aq) + 2AlCl<sub>3</sub>(aq) (Double Replacement)
+
+## Net Ionic Equations
 
