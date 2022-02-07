@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1644251268142,
-      "created": 1644251268142,
+      "updated": 1644251553680,
+      "created": 1644251553680,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -165,9 +165,54 @@
       "links": [],
       "anchors": {},
       "children": [
-        "mBpbaHWZfxuuQDENAHsjE"
+        "mBpbaHWZfxuuQDENAHsjE",
+        "XoFNumE2BWnPyK2bfryA8"
       ],
       "parent": "Vu2cTbUb7QvRaJn18JIR2",
+      "data": {}
+    },
+    "XoFNumE2BWnPyK2bfryA8": {
+      "id": "XoFNumE2BWnPyK2bfryA8",
+      "title": "Thermochemistry",
+      "desc": "",
+      "updated": 1644251489788,
+      "created": 1644251483346,
+      "custom": {},
+      "fname": "chemistry.thermochemistry",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1805000b3d2f492f85c27dbfdaec8303",
+      "links": [],
+      "anchors": {
+        "what-is-thermochemistry": {
+          "type": "header",
+          "text": "What is Thermochemistry?",
+          "value": "what-is-thermochemistry",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "definitions": {
+          "type": "header",
+          "text": "Definitions",
+          "value": "definitions",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "important-formulas": {
+          "type": "header",
+          "text": "Important formulas",
+          "value": "important-formulas",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "Y0b2fgBUsqF59zSGSzKQF",
       "data": {}
     },
     "mBpbaHWZfxuuQDENAHsjE": {

@@ -1,10 +1,3 @@
----
-id: XoFNumE2BWnPyK2bfryA8
-title: Thermochemistry
-desc: ''
-updated: 1644251489739
-created: 1644251483346
----
 
 ## What is Thermochemistry?
 
