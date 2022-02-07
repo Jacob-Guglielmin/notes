@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1643922931276,
-      "created": 1643922931276,
+      "updated": 1644251268142,
+      "created": 1644251268142,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -99,7 +99,7 @@
       "id": "8lb0dR0k9MkNRxzz07ylo",
       "title": "Collisions",
       "desc": "",
-      "updated": 1643922389351,
+      "updated": 1643838302232,
       "created": 1643818935772,
       "custom": {},
       "fname": "physics.collisions",
@@ -107,7 +107,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "28b6e896bf08622add255686324fac06",
+      "contentHash": "569e51d6511a47c574d88cc8fa621814",
       "links": [],
       "anchors": {
         "linear-momentum": {
@@ -165,29 +165,9 @@
       "links": [],
       "anchors": {},
       "children": [
-        "mBpbaHWZfxuuQDENAHsjE",
-        "LOwQZbQHtXIITfndRcBrn"
+        "mBpbaHWZfxuuQDENAHsjE"
       ],
       "parent": "Vu2cTbUb7QvRaJn18JIR2",
-      "data": {}
-    },
-    "LOwQZbQHtXIITfndRcBrn": {
-      "id": "LOwQZbQHtXIITfndRcBrn",
-      "title": "Thermochemical Changes",
-      "desc": "",
-      "updated": 1643644971593,
-      "created": 1643644690764,
-      "custom": {},
-      "fname": "chemistry.thermochemical-changes",
-      "type": "note",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "contentHash": "5d9f0fdcee669c319e07fcfd4aa304da",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "Y0b2fgBUsqF59zSGSzKQF",
       "data": {}
     },
     "mBpbaHWZfxuuQDENAHsjE": {
