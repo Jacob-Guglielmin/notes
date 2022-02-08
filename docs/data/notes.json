@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1644338234746,
-      "created": 1644338234746,
+      "updated": 1644356374405,
+      "created": 1644356374405,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -71,7 +71,7 @@
       "id": "sjwq3TgFBQpEvQvKgodGN",
       "title": "Review",
       "desc": "",
-      "updated": 1643816907657,
+      "updated": 1644355963099,
       "created": 1643663100583,
       "custom": {},
       "fname": "physics.review",
@@ -79,7 +79,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "ed936940f95b84553a6ecfb99d0d2bac",
+      "contentHash": "12608ff814f41b4781ae264876491a7f",
       "links": [],
       "anchors": {
         "vector-addition-2d": {
@@ -175,7 +175,7 @@
       "id": "XoFNumE2BWnPyK2bfryA8",
       "title": "Thermochemistry",
       "desc": "",
-      "updated": 1644337321210,
+      "updated": 1644337321092,
       "created": 1644251483346,
       "custom": {},
       "fname": "chemistry.thermochemistry",
@@ -219,7 +219,7 @@
       "id": "mBpbaHWZfxuuQDENAHsjE",
       "title": "Chem 20 Review",
       "desc": "",
-      "updated": 1644334808086,
+      "updated": 1644334807956,
       "created": 1643645295093,
       "custom": {},
       "fname": "chemistry.chem-20-review",

@@ -3,7 +3,7 @@
 
 * A vector is any line given by its magnitude and direction from a point
     * Example: The vector from the origin to $(1,1)$ can be represented as $angle=\frac{π}{4},\>magnitude=\sqrt{2}$
-* Any vector can be broken down into an $x$ and $y$ component by simply using $\sin{}$ and $cos{}$
+* Any vector can be broken down into an $x$ and $y$ component by simply using $\sin{}$ and $\cos{}$
     * Our example vector ($angle=\frac{π}{4},\>magnitude=\sqrt{2}$), can be converted to $x=\sqrt{2}\cos{\frac{π}{4}}=1,\>y=\sqrt{2}\sin{\frac{π}{4}}=1$
 * This process can also be done in reverse:
     * $x=1,y=1$ can be converted to $angle=\arctan{(y/x)}=\frac{π}{4},\>magnitude=\sqrt{x^2+y^2}=\sqrt{2}$
