@@ -11,7 +11,7 @@
 
 * Enthalpy
     * The total energy of a system
-    * Absolute enthalpy cannot be measured, so changes in energy are measured instead
+    * Absolute enthalpy cannot be measured, so *changes* in energy are measured instead
 * Heat
     * Thermal energy being transferred between systems
 * Temperature
@@ -27,10 +27,10 @@
     * $c$ (J/g°C): specific heat capacity
     * $Δt$ (°C): change in temperature
     * Example: Determine the change in thermal energy when 115 mL of water is heated from 19.6°C to 98.8°C.
-        * $Q = 115mL·4.19J/g°C·(98.8°C - 19.6°C) = 3.82·10^4J = 3.82 kJ$
+        * $Q = 115\>mL·4.19\>J/g°C·(98.8°C - 19.6°C) = 3.82·10^4\>J = 3.82\>kJ$
 * $ΔH_r=nΔH$
     * $ΔH_r$ (kJ): enthalpy change of reaction
     * $n$ (mol): moles of substance
     * $ΔH$ (kJ/mol): molar enthalpy - **standard value** - will be given by either data booklet or question
     * Example: What is the enthalpy change when 50 g of chlorine vaporizes?
-        * $ΔH_r = 50g\>Cl_2·\frac{1\>mol\>Cl_2}{79.90g\>Cl_2}·\frac{20.41kJ}{1\>mol\>Cl_2} = 14 kJ$
+        * $ΔH_r = 50\>g\>Cl_2·\frac{1\>mol\>Cl_2}{79.90\>g\>Cl_2}·\frac{20.41\>kJ}{1\>mol\>Cl_2} = 14\>kJ$

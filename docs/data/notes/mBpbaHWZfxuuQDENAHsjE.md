@@ -148,6 +148,6 @@ Combustion: C<sub>( )</sub>H<sub>( )</sub> + O<sub>2</sub> → CO<sub>2</sub> + 
 * pH: power of H<sup>+</sup>: $-\log{[H^+]}$
 * pOH: power of OH<sup>-</sup>: $-\log{[OH^-]}$
 * To convert:
-    * $pH + pOH = 14$
+    * $pH\>+\>pOH = 14$
     * $[H_3O^+]\>or\>[H^+] = 10^{-pH}$
     * $[OH^-] = 10^{-pOH}$
