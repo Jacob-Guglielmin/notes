@@ -22,7 +22,7 @@
 ## Important formulas
 
 * $Q=mcΔt$
-    * $Q$ (kJ): change in $E_k$ - the quantity of thermal energy transferred
+    * $Q$ (J): change in $E_k$ - the quantity of thermal energy transferred
     * $m$ (g): mass
     * $c$ (J/g°C): specific heat capacity
     * $Δt$ (°C): change in temperature

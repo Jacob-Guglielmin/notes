@@ -2,7 +2,7 @@
 id: XoFNumE2BWnPyK2bfryA8
 title: Thermochemistry
 desc: ''
-updated: 1644337321092
+updated: 1644597389709
 created: 1644251483346
 ---
 
@@ -29,7 +29,7 @@ created: 1644251483346
 ## Important formulas
 
 * $Q=mcΔt$
-    * $Q$ (kJ): change in $E_k$ - the quantity of thermal energy transferred
+    * $Q$ (J): change in $E_k$ - the quantity of thermal energy transferred
     * $m$ (g): mass
     * $c$ (J/g°C): specific heat capacity
     * $Δt$ (°C): change in temperature

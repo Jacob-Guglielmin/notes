@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1644356374405,
-      "created": 1644356374405,
+      "updated": 1644597518088,
+      "created": 1644597518088,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -71,7 +71,7 @@
       "id": "sjwq3TgFBQpEvQvKgodGN",
       "title": "Review",
       "desc": "",
-      "updated": 1644355963099,
+      "updated": 1644355962891,
       "created": 1643663100583,
       "custom": {},
       "fname": "physics.review",
@@ -175,7 +175,7 @@
       "id": "XoFNumE2BWnPyK2bfryA8",
       "title": "Thermochemistry",
       "desc": "",
-      "updated": 1644337321092,
+      "updated": 1644597389762,
       "created": 1644251483346,
       "custom": {},
       "fname": "chemistry.thermochemistry",
@@ -183,7 +183,7 @@
       "vault": {
         "fsPath": "vault"
       },
-      "contentHash": "67a26e35570abc36feda50ae318228db",
+      "contentHash": "9c74dddc9756d00ef78559ebbe6031d3",
       "links": [],
       "anchors": {
         "what-is-thermochemistry": {
