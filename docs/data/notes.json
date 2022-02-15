@@ -9,8 +9,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1644855321270,
-      "created": 1644855321270,
+      "updated": 1644941224696,
+      "created": 1644941224696,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -212,16 +212,45 @@
         }
       },
       "children": [
-        "zVyB9QCP9mWIJ7gIXpmvb"
+        "zVyB9QCP9mWIJ7gIXpmvb",
+        "DD3kv29eCYy3qggjjPz8M"
       ],
       "parent": "Y0b2fgBUsqF59zSGSzKQF",
+      "data": {}
+    },
+    "DD3kv29eCYy3qggjjPz8M": {
+      "id": "DD3kv29eCYy3qggjjPz8M",
+      "title": "Hess' Law",
+      "desc": "",
+      "updated": 1644941009400,
+      "created": 1644939675916,
+      "custom": {},
+      "fname": "chemistry.thermochemistry.hess'-law",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "761e135a58c8b0e8329d894c03874c4b",
+      "links": [],
+      "anchors": {
+        "what-is-hess-law": {
+          "type": "header",
+          "text": "What is Hess' law?",
+          "value": "what-is-hess-law",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "XoFNumE2BWnPyK2bfryA8",
       "data": {}
     },
     "zVyB9QCP9mWIJ7gIXpmvb": {
       "id": "zVyB9QCP9mWIJ7gIXpmvb",
       "title": "Calorimetry",
       "desc": "",
-      "updated": 1644854669920,
+      "updated": 1644854669878,
       "created": 1644854070760,
       "custom": {},
       "fname": "chemistry.thermochemistry.calorimetry",
