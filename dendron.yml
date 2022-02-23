@@ -7,7 +7,7 @@ dev:
     enablePreviewV2: true
 site:
     assetsPrefix: /notes
-    siteUrl: https://jacob-guglielmin.github.io/notes
+    siteUrl: https://jacob-guglielmin.github.io
     copyAssets: true
     siteHierarchies:
         - root
