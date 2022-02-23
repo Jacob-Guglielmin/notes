@@ -2,11 +2,11 @@
 id: 8lb0dR0k9MkNRxzz07ylo
 title: Collisions
 desc: ''
-updated: 1645632182598
+updated: 1645632602049
 created: 1643818935772
 ---
 
-## Linear Momentum TEST EDIT
+## Linear Momentum
 
 * Linear momentum is defined as the product of a system's mass and its velocity, and typically denoted as $p$ $(p=mv)$
 * Linear momentum is a vector, with the same direction as the system's velocity
