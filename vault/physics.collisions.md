@@ -2,13 +2,13 @@
 id: 8lb0dR0k9MkNRxzz07ylo
 title: Collisions
 desc: ''
-updated: 1645632602049
+updated: 1646062838570
 created: 1643818935772
 ---
 
 ## Linear Momentum
 
-* Linear momentum is defined as the product of a system's mass and its velocity, and typically denoted as $p$ $(p=mv)$
+* Linear momentum is defined as the product of a system's mass and its velocity, and typically denoted as $p$ (Formula: $p=mv$)
 * Linear momentum is a vector, with the same direction as the system's velocity
 * In SI units, linear momentum is expressed in $kg·m/s$
 * Newton's second law can be expressed in terms of momentum: $F_{net}=\frac{Δp}{Δt}$
