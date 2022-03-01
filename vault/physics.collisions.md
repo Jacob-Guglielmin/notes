@@ -10,7 +10,7 @@ created: 1643818935772
 
 * Linear momentum is defined as the product of a system's mass and its velocity, and typically denoted as $p$ $(p=mv)$
 * Linear momentum is a vector, with the same direction as the system's velocity
-* In SI units, linear momentum is expressed in $kg·m/s$
+* In SI units, linear momentum is expressed in $kg×m/s$
 * Newton's second law can be expressed in terms of momentum: $F_{net}=\frac{Δp}{Δt}$
     * The net external force acting on a system is equal to the change in momentum over the time that the force acts
     * This is essentially the same as $F=ma$, but does not assume that the mass of the system remains constant

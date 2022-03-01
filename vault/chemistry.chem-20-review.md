@@ -22,8 +22,8 @@ created: 1643645295093
 12. copper (II) oxide: CuO
 13. hydrophosphoric acid: H<sub>3</sub>P
 14. lead (II) chloride: PbCl<sub>2</sub>
-15. sodium nitrate decahydrate: NaNo<sub>3</sub>·10H<sub>2</sub>O
-16. calcium chloride pentahydrate: CaCl<sub>2</sub>·5H<sub>2</sub>O
+15. sodium nitrate decahydrate: NaNo<sub>3</sub>×10H<sub>2</sub>O
+16. calcium chloride pentahydrate: CaCl<sub>2</sub>×5H<sub>2</sub>O
 17. barium hydroxide: Ba(OH)<sub>2</sub>
 18. magnesium silicate: MgSiO<sub>3</sub>
 19. diphosphorus pentaoxide: P<sub>2</sub>O<sub>5</sub>
@@ -31,14 +31,14 @@ created: 1643645295093
 21. sodium hydrogen carbonate: NaHCO<sub>3</sub>
 22. magnesium phosphide: Mg<sub>3</sub>P<sub>2</sub>
 23. MnCl<sub>2</sub>: magnesium (II) chloride
-24. AuCl<sub>3</sub>·5H2O: gold (III) chloride pentahydrate
+24. AuCl<sub>3</sub>×5H2O: gold (III) chloride pentahydrate
 25. NH<sub>3</sub>: ammonia
 26. H<sub>2</sub>CO<sub>3</sub>(aq): carbonic acid
 27. (NH<sub>4</sub>)<sub>3</sub>N: ammonium nitride
 28. HNO<sub>2</sub>(aq): nitrous acid
 29. C<sub>6</sub>H<sub>6</sub>: benzene
 30. SO<sub>3</sub>: sulfite
-31. KMnO<sub>4</sub>·7H2O: potassium permanganate heptahydrate
+31. KMnO<sub>4</sub>×7H2O: potassium permanganate heptahydrate
 32. SO<sub>2</sub>: sulfur dioxide
 33. AgCl: silver chloride
 34. NO<sub>2</sub>: nitrogen dioxide
@@ -64,7 +64,7 @@ created: 1643645295093
 54. calcium carbonate: CaCO<sub>3</sub>
 55. barium hypoiodite: Ba(IO)<sub>2</sub>
 56. tin (II) sulfate: SnSO<sub>4</sub>
-57. sodium nitrate decahydrate: NaNo<sub>3</sub>·10H<sub>2</sub>O
+57. sodium nitrate decahydrate: NaNo<sub>3</sub>×10H<sub>2</sub>O
 58. propane: C<sub>3</sub>H<sub>8</sub>
 59. ammonium phosphate: (NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>
 60. carbon dioxide: CO<sub>2</sub>
@@ -79,7 +79,7 @@ created: 1643645295093
 69. H<sub>3</sub>P(aq): hydrophosphoric acid
 70. CO: carbon monoxide
 71. CH<sub>3</sub>OH: methanol
-72. CuSO<sub>4</sub>·5H2O: copper (II) sulfate pentahydrate
+72. CuSO<sub>4</sub>×5H2O: copper (II) sulfate pentahydrate
 73. Hg<sub>3</sub>(BO<sub>2</sub>)<sub>2</sub>: mercury borite
 74. SiO<sub>2</sub>: silicon dioxide
 75. H<sub>2</sub>SO<sub>4</sub>(aq): sulfuric acid
