@@ -74,6 +74,7 @@ preview:
     automaticallyShowPreview: true
 publishing:
     enableFMTitle: true
+    enableHierarchyDisplay: false
     enableNoteTitleForLink: true
     enableMermaid: true
     enablePrettyRefs: true
@@ -102,4 +103,3 @@ publishing:
         editBranch: main
         editViewMode: tree
     enablePrettyLinks: true
-    enableHierarchyDisplay: false
