@@ -82,7 +82,7 @@ publishing:
     copyAssets: true
     siteHierarchies:
         - root
-    enableSiteLastModified: true
+    enableSiteLastModified: false
     siteRootDir: docs
     siteUrl: 'https://jacob-guglielmin.github.io'
     enableFrontmatterTags: true
@@ -102,3 +102,4 @@ publishing:
         editBranch: main
         editViewMode: tree
     enablePrettyLinks: true
+    enableHierarchyDisplay: false
