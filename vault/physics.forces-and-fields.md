@@ -2,7 +2,7 @@
 id: g73bb3wp7fgwo1t6krw922k
 title: Forces and Fields
 desc: ''
-updated: 1646690048531
+updated: 1647030530487
 created: 1646082322461
 ---
 
@@ -30,6 +30,9 @@ Solenoid: A coil of wire around a ferromagnetic material
 ## Voltage
 * Voltage is electric potential energy
     * As energy, it obeys the laws of thermodynamics
+
+## Electric Field of Point Charge
+* $|E|=\frac{k|q|}{r^2}$
 
 ## Magnetism
 * There are 2 forms of magnetism:
