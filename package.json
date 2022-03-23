@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@dendronhq/dendron-11ty-legacy": "^0.64.2",
-    "@dendronhq/dendron-cli": "^0.83.0"
+    "@dendronhq/dendron-cli": "^0.85.0"
   },
   "directories": {
     "doc": "docs"
