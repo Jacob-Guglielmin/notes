@@ -7,7 +7,6 @@ created: 1643663100583
 ---
 
 ## Vector addition (2D)
-
 * A vector is any line given by its magnitude and direction from a point
     * Example: The vector from the origin to $(1,1)$ can be represented as $angle=\frac{π}{4},\>magnitude=\sqrt{2}$
 * Any vector can be broken down into an $x$ and $y$ component by simply using $\sin{}$ and $\cos{}$
