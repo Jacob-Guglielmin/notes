@@ -2,7 +2,7 @@
 id: g73bb3wp7fgwo1t6krw922k
 title: Forces and Fields
 desc: ''
-updated: 1647030530487
+updated: 1649275957471
 created: 1646082322461
 ---
 
@@ -38,7 +38,7 @@ Solenoid: A coil of wire around a ferromagnetic material
 * There are 2 forms of magnetism:
     * Magnetic field in space
     * Originating from a moving charge
-* Magnetic force: $F_b=qvB\sin{θ}$
+* Magnetic force: $F_b=qvB\sin{θ}$ **OR** $F_b=IlB\sin{θ}$
 
 ### Hand Rules for Magnetism
 #### Magnetic Fields
