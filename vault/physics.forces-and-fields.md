@@ -2,7 +2,7 @@
 id: g73bb3wp7fgwo1t6krw922k
 title: Forces and Fields
 desc: ''
-updated: 1649275957471
+updated: 1649360093005
 created: 1646082322461
 ---
 
@@ -30,6 +30,10 @@ Solenoid: A coil of wire around a ferromagnetic material
 ## Voltage
 * Voltage is electric potential energy
     * As energy, it obeys the laws of thermodynamics
+
+## Current
+* Measured in amps
+    * $I=\frac{q}{t}$
 
 ## Electric Field of Point Charge
 * $|E|=\frac{k|q|}{r^2}$
