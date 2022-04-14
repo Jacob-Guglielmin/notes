@@ -2,18 +2,19 @@
 id: 4gh1q135cuw2mo7xso1qokz
 title: Optics and EMR
 desc: ''
-updated: 1649969084608
+updated: 1649969398143
 created: 1649707981436
 ---
 
 ## Terms
-Normal: Vector perpendicular to surface
-Virtual image: Image formed from virtual light rays (focal point does not exist)
-Real image: Image formed from rays which intersect at a real focal point
-Principal axis: Line perpendicular to center of lens
+Normal: Vector perpendicular to surface  
+Light ray: Path of light  
+Virtual light ray: Path of light if it does something weird (reflect off a lens or refracting through a mirror)  
+Image: Point where 2 or more light rays intersect   
+Virtual image: Image formed from virtual light rays  
+Principal axis: Line perpendicular to center of lens  
 
 ## Reflection
-* EMR 'bouncing' off a surface
 * Angle of incidence = angle of reflection ($θ_1 = θ_2$)
 * Angles measured from the normal
 
