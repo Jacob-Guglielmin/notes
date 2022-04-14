@@ -2,18 +2,15 @@
 id: 4gh1q135cuw2mo7xso1qokz
 title: Optics and EMR
 desc: ''
-updated: 1649881097106
+updated: 1649968769909
 created: 1649707981436
 ---
 
 ## Terms
 Normal: Vector perpendicular to surface
-
-## Lensmaker's Equation
-* $\frac{1}{f}=(n-1)(\frac{1}{R_1}-\frac{1}{R_2})$
-* $f$: focal length
-* $n$: index of refraction
-* $R_1,\>R_2$: radius of curvature of sides of lens
+Virtual image: Image formed from virtual light rays (focal point does not exist)
+Real image: Image formed from rays which intersect at a real focal point
+Principal axis: Line perpendicular to center of lens
 
 ## Reflection
 * EMR 'bouncing' off a surface
@@ -30,3 +27,22 @@ Normal: Vector perpendicular to surface
 * $n_2$: refracted index
 * $θ_1$: incident angle (measured from normal)
 * $θ_2$: refracted angle (measured from normal)
+
+## Thin lens Equation
+* $\frac{1}{f}=\frac{1}{d_o}+\frac{1}{d_i}$
+* $f$: focal length
+* $d_o$: distance to object
+* $d_i$: distance to image
+
+## Lenses
+* Image upright when formed above principal axis, inverted when below
+* 2 types for Physics 30:
+    * Converging or biconvex (both sides curve outward)
+        * In parallel: Out toward focal point
+        * In toward focal point: Out parallel
+        * In toward center of curvature: Out through center of curvature (no change)
+    * Diverging or biconcave (both sides curve inward)
+        * In parallel: Virtual rays to focal point (Out away from focal point)
+        * In toward focal point: Out parallel
+        * In toward center of curvature: Out through center of curvature (no change)
+    * ![](/assets/images/2022-04-14-14-39-21.png)
