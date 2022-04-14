@@ -2,7 +2,7 @@
 id: 4gh1q135cuw2mo7xso1qokz
 title: Optics and EMR
 desc: ''
-updated: 1649968769909
+updated: 1649969084608
 created: 1649707981436
 ---
 
@@ -28,7 +28,7 @@ Principal axis: Line perpendicular to center of lens
 * $θ_1$: incident angle (measured from normal)
 * $θ_2$: refracted angle (measured from normal)
 
-## Thin lens Equation
+## Thin Lens Equation
 * $\frac{1}{f}=\frac{1}{d_o}+\frac{1}{d_i}$
 * $f$: focal length
 * $d_o$: distance to object
