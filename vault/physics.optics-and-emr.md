@@ -2,7 +2,7 @@
 id: 4gh1q135cuw2mo7xso1qokz
 title: Optics and EMR
 desc: ''
-updated: 1649969398143
+updated: 1651005088183
 created: 1649707981436
 ---
 
@@ -47,3 +47,18 @@ Principal axis: Line perpendicular to center of lens
         * In toward focal point: Out parallel
         * In toward center of curvature: Out through center of curvature (no change)
     * ![](/assets/images/2022-04-14-14-39-21.png)
+
+## Light as a Wave
+* Light contains two waves, each orthagonal to each other
+* One of these waves can be filtered out through polarization
+    * Two polarizing filters perpendicular to each other allow no light through
+* As a wave, light can interfere with itself
+    * Antinodes show up as bright spots
+    * Nodes show up as darkness
+    * Central antinode is called central maxima - $n=0$
+    * Each node to the side increments by 1 - $n=1,2,3,...$
+
+### Young's Experiment
+* Interference of light
+* Several slits to produce interference pattern
+* Wavelength of light can be calculated by $λ=\frac{xd}{nl}$, or $λ=\frac{d\sin{θ}}{n}$ for $θ>10$, where $x$ is the distance between the antinodes, $l$ is the distance between the grating and the screen

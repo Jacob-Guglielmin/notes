@@ -65,6 +65,7 @@ workspace:
     maxPreviewsCached: 10
     maxNoteLength: 204800
     dendronVersion: 0.85.0
+    enableFullHierarchyNoteTitle: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -72,6 +73,8 @@ preview:
     enablePrettyRefs: true
     enableKatex: true
     automaticallyShowPreview: true
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
 publishing:
     enableFMTitle: true
     enableHierarchyDisplay: false
@@ -85,7 +88,7 @@ publishing:
         - root
     enableSiteLastModified: false
     siteRootDir: docs
-    siteUrl: 'https://jacob-guglielmin.github.io'
+    siteUrl: https://jacob-guglielmin.github.io
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
