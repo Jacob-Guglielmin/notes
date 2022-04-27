@@ -2,7 +2,7 @@
 id: rp5clteo12urlwnsrpy52o5
 title: Electrochemistry
 desc: ''
-updated: 1650987898456
+updated: 1651072103725
 created: 1650983826913
 ---
 
@@ -50,3 +50,10 @@ All others | Calculated | [[Examples\|chemistry.electrochemistry#calculating-oxi
 ## Balancing using Oxidation Numbers
 * Redox reactions can be balanced by looking at the change in the oxidation numbers
 * The total increase in oxidation numbers in the reaction is always equal to the total decrease
+
+## Spontaneity of Redox Reactions
+* A spontaneous redox reaction will only occur if the oxidizing agent is above the reducing agent in the table of relative strengths in the data booklet
+* If they are at the same level, it is also non-spontaneous
+* In the data table:
+    * Oxidizing agents are on the left, with the strongest at the top, whereas reducing agents are on the right with the strongest at the bottom
+    * Oxidation half-reactions are read left to right, whereas reduction half-reactions are read right to left
