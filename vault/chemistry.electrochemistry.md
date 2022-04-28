@@ -2,7 +2,7 @@
 id: rp5clteo12urlwnsrpy52o5
 title: Electrochemistry
 desc: ''
-updated: 1651072103725
+updated: 1651157810877
 created: 1650983826913
 ---
 
@@ -57,3 +57,10 @@ All others | Calculated | [[Examples\|chemistry.electrochemistry#calculating-oxi
 * In the data table:
     * Oxidizing agents are on the left, with the strongest at the top, whereas reducing agents are on the right with the strongest at the bottom
     * Oxidation half-reactions are read left to right, whereas reduction half-reactions are read right to left
+
+## Building Redox Tables
+* Redox tables can be created using evidence from reactions
+* We know redox reactions will only occur naturally if the oxidizing agent is above the reducing agent
+    * Therefore, when a reaction does not occur, the reducing agent must be above the oxidizing agent
+    * We also know that if a reaction occurs, the oxidizing agent must be above the reducing agent
+* Using only these rules, we can work out the table like a logic puzzle
