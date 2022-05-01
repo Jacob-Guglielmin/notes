@@ -2,7 +2,7 @@
 id: 1azvsgvaxllc153f4mie7q6
 title: Acids and Bases
 desc: ''
-updated: 1649861818616
+updated: 1651448150883
 created: 1649342410378
 ---
 
@@ -14,6 +14,7 @@ created: 1649342410378
     * Acids donate a proton to another species in solution (proton donors)
     * Bases accept a proton from another species in solution (proton acceptors)
 * When a substance can either donate **OR** accept a proton depending on the solution, it is called amphoteric/amphiprotic
+* In the case where multiple amphoteric/amphiprotic substances react, the stronger acid will donate the proton, and the stronger base will accept the proton
 * Strong acids
     * Low pH
     * First 6 acids in data booklet
