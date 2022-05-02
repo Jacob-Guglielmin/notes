@@ -2,7 +2,7 @@
 id: 1azvsgvaxllc153f4mie7q6
 title: Acids and Bases
 desc: ''
-updated: 1651448150883
+updated: 1651449946168
 created: 1649342410378
 ---
 
@@ -38,6 +38,16 @@ created: 1649342410378
     * Two related compounds or ions
     * ![](/assets/images/2022-04-07-09-02-42.png)
     * The stronger the acid, the weaker its conjugate base (and vice versa)
+
+## Using $K_a$
+* $HA_{(aq)}+H_2O_{(l)}⇄H_3O^+_{(aq)}+A^-_{(aq)}$
+* General formula: $K_a=\frac{[H_3O^+_{(aq)}][A^-_{(aq)}]}{[HA_{(aq)}]}$
+* Larger $K_a$: stronger acid
+* If there is a divide by zero (no acid remaining), the $K_a$ can be written as $\infty$ or "very large"
+* For strong acids (react completely), just plug in the stoich like Chem 20
+* For weak acids, you have to do an ICE table
+    * Solving for concentrations can be made *much* easier if $\frac{[HA]}{K_a}>1000$ (if you are only using 2 significant digits)
+        * If it is, you can drop the $-x$ that will end up in the denominator from the equation, as its effect will be negligible
 
 ## Buffer Solutions
 * A solution containing a weak acid and its conjugate base
