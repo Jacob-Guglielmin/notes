@@ -2,7 +2,7 @@
 id: 1azvsgvaxllc153f4mie7q6
 title: Acids and Bases
 desc: ''
-updated: 1651449946168
+updated: 1651450415364
 created: 1649342410378
 ---
 
@@ -48,6 +48,11 @@ created: 1649342410378
 * For weak acids, you have to do an ICE table
     * Solving for concentrations can be made *much* easier if $\frac{[HA]}{K_a}>1000$ (if you are only using 2 significant digits)
         * If it is, you can drop the $-x$ that will end up in the denominator from the equation, as its effect will be negligible
+
+## $K_w$ and $K_b$
+* $K_w$ is the ionization constant of water ($1×10^-14$)
+* Since $K_b$ is never given in the data booklet, we can obtain it using the $K_a$ of the conjugate acid and $K_w$
+* $K_b=\frac{K_w}{K_a}$
 
 ## Buffer Solutions
 * A solution containing a weak acid and its conjugate base
