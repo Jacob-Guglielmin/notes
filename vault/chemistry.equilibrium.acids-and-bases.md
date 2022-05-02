@@ -2,7 +2,7 @@
 id: 1azvsgvaxllc153f4mie7q6
 title: Acids and Bases
 desc: ''
-updated: 1651450415364
+updated: 1651451426456
 created: 1649342410378
 ---
 
@@ -50,7 +50,7 @@ created: 1649342410378
         * If it is, you can drop the $-x$ that will end up in the denominator from the equation, as its effect will be negligible
 
 ## $K_w$ and $K_b$
-* $K_w$ is the ionization constant of water ($1×10^-14$)
+* $K_w$ is the ionization constant of water ($1×10^{-14}$)
 * Since $K_b$ is never given in the data booklet, we can obtain it using the $K_a$ of the conjugate acid and $K_w$
 * $K_b=\frac{K_w}{K_a}$
 
