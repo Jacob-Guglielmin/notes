@@ -1,0 +1,156 @@
+{
+  "roots": [
+    {
+      "key": "Vu2cTbUb7QvRaJn18JIR2",
+      "title": "Notes",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "Y0b2fgBUsqF59zSGSzKQF",
+          "title": "Chemistry",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "mBpbaHWZfxuuQDENAHsjE",
+              "title": "Chem 20 Review",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "rp5clteo12urlwnsrpy52o5",
+              "title": "Electrochemistry",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "0j59foy3nkz5ucxoaewbz56",
+              "title": "Equilibrium",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "1azvsgvaxllc153f4mie7q6",
+                  "title": "Acids and Bases",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "kwok3kufyqs6hf1mrih22ul",
+                  "title": "General Equilibrium",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "qis5x9zj75uucy5w1xlyzc1",
+              "title": "Organic Chemistry",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "XoFNumE2BWnPyK2bfryA8",
+              "title": "Thermochemistry",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "zVyB9QCP9mWIJ7gIXpmvb",
+                  "title": "Calorimetry",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "DD3kv29eCYy3qggjjPz8M",
+                  "title": "Hess' Law",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "OasS4fZdK9wMUsY2HfGDj",
+          "title": "Physics",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "8lb0dR0k9MkNRxzz07ylo",
+              "title": "Collisions",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "g73bb3wp7fgwo1t6krw922k",
+              "title": "Forces and Fields",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "4gh1q135cuw2mo7xso1qokz",
+              "title": "Optics and EMR",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "sjwq3TgFBQpEvQvKgodGN",
+              "title": "Review",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "Vu2cTbUb7QvRaJn18JIR2": null,
+    "OasS4fZdK9wMUsY2HfGDj": "Vu2cTbUb7QvRaJn18JIR2",
+    "sjwq3TgFBQpEvQvKgodGN": "OasS4fZdK9wMUsY2HfGDj",
+    "4gh1q135cuw2mo7xso1qokz": "OasS4fZdK9wMUsY2HfGDj",
+    "g73bb3wp7fgwo1t6krw922k": "OasS4fZdK9wMUsY2HfGDj",
+    "8lb0dR0k9MkNRxzz07ylo": "OasS4fZdK9wMUsY2HfGDj",
+    "Y0b2fgBUsqF59zSGSzKQF": "Vu2cTbUb7QvRaJn18JIR2",
+    "0j59foy3nkz5ucxoaewbz56": "Y0b2fgBUsqF59zSGSzKQF",
+    "kwok3kufyqs6hf1mrih22ul": "0j59foy3nkz5ucxoaewbz56",
+    "1azvsgvaxllc153f4mie7q6": "0j59foy3nkz5ucxoaewbz56",
+    "XoFNumE2BWnPyK2bfryA8": "Y0b2fgBUsqF59zSGSzKQF",
+    "DD3kv29eCYy3qggjjPz8M": "XoFNumE2BWnPyK2bfryA8",
+    "zVyB9QCP9mWIJ7gIXpmvb": "XoFNumE2BWnPyK2bfryA8",
+    "qis5x9zj75uucy5w1xlyzc1": "Y0b2fgBUsqF59zSGSzKQF",
+    "rp5clteo12urlwnsrpy52o5": "Y0b2fgBUsqF59zSGSzKQF",
+    "mBpbaHWZfxuuQDENAHsjE": "Y0b2fgBUsqF59zSGSzKQF"
+  }
+}
