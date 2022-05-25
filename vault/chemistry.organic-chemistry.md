@@ -2,7 +2,7 @@
 id: qis5x9zj75uucy5w1xlyzc1
 title: Organic Chemistry
 desc: ""
-updated: 1652971833496
+updated: 1653490868252
 created: 1652452658913
 ---
 
@@ -64,6 +64,22 @@ created: 1652452658913
 -   The benzene ring can also be considered a branch of a larger molecule - if this is the case, the benzene ring is called a phenyl branch, and named as other branches (Ex. 3-phenyl)
 -   Branches off benzene rings can also be referred to in another way: 1,2- can be replaced with o-, 1,3- with m-, and 1,4- with p-
 
-## Physical Properties of Aliphatics
+## Carboxylic Acids
 
--   Non-polar
+-   A hydrocarbon with a $COOH$ on the end
+    -   Named by naming normally, removing the "-e" at the end and adding "-oic acid"
+    -   Ex. methane → methanoic acid
+-   The carbon that is part of the $COOH$ group is still considered part of the parent chain
+
+## Alcohols
+
+-   A hydrocarbon with an $OH$ group
+-   Named by naming normally, changing the "-e" at the end to \*position of $OH$ group\* + "-ol"
+    -   Ex. propane → propan-2-ol
+
+## Condensation Reactions
+
+-   Sometimes called esterification reactions
+-   $carboxylic\>acid + alcohol → ester$
+-   $H$ from $OH$ group on carboxylic acid and $OH$ from alcohol come off to form $H_2O$, and the carboxylic acid's new $O$ bonds to the $C$ exposed on the alcohol - The $O$ joining the two together is called an ester linkage
+-   ![](/assets/images/2022-05-25-09-00-56.png)
